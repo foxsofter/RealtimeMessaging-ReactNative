@@ -12,20 +12,24 @@
 	<dict>
 		<key>28C8B77D83CFF6D53DE3C79973D435F92005F965</key>
 		<string>ssh://bitbucket.org/realtime_framework/react-native-ios.git</string>
+		<key>B3A1B87A2260CE50E912EE9DA898A601A44287FB</key>
+		<string>https://github.com/JoaoCaixinha/RealtimeMessaging-ReactNative.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>RealtimeRCT.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>28C8B77D83CFF6D53DE3C79973D435F92005F965</key>
+		<string>../../../react-native-ios</string>
+		<key>B3A1B87A2260CE50E912EE9DA898A601A44287FB</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://bitbucket.org/realtime_framework/react-native-ios.git</string>
+	<string>https://github.com/JoaoCaixinha/RealtimeMessaging-ReactNative.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>28C8B77D83CFF6D53DE3C79973D435F92005F965</string>
+	<string>B3A1B87A2260CE50E912EE9DA898A601A44287FB</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>28C8B77D83CFF6D53DE3C79973D435F92005F965</string>
 			<key>IDESourceControlWCCName</key>
 			<string>react-native-ios</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B3A1B87A2260CE50E912EE9DA898A601A44287FB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>react-native-ios-github</string>
 		</dict>
 	</array>
 </dict>
